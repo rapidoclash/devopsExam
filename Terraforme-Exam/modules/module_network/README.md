@@ -1,0 +1,2 @@
+j'ai tout ouvert m^me si je sais que se n'est pas une bonne pratique car au moins je ne ferme aucune porte et comme la Vm exite dans un but d'evalution "se n'est pas grave "
+Mais dans la vrai vie il faudrait laisser qu' une seul porte d'ouverte suivant l'utilisation
